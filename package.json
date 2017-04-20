@@ -1,0 +1,11 @@
+{
+  "name": "task-notify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/escaladesports/task-notify.git",
+  "author": "Kennedy Rose <krose@escaladesports.com> (https://escaladesports.com)",
+  "license": "MIT",
+  "dependencies": {
+    "node-notifier": "^5.1.2"
+  }
+}
